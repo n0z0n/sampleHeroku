@@ -1,7 +1,7 @@
 uwsgi
 flask
 flask-restful
-flask-hpasswd
+flask-htpasswd
 gevent
 gevent-websocket
 uwsgitop
