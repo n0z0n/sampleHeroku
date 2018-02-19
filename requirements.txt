@@ -1,0 +1,15 @@
+uwsgi
+flask
+flask-restful
+flask-tpasswd
+gevent
+gevent-websocket
+uwsgitop
+werkzeug
+requests
+boto3
+requests
+rq
+freeze
+redis
+rq_dashboard
